@@ -2,9 +2,9 @@
 
 Creative full‑stack developer focused on building beautiful, performant and accessible web experiences. I enjoy turning ideas into production-ready sites and tools using modern web technologies.
 
-🔭 I’m currently seeking job opportunities and open to collaborations.
-🌱 I work daily with HTML, CSS, JavaScript, Node.js, Tailwind, npm, and WordPress.
-💡 I care about well-structured code, UX, and fast load times.
+- 🔭 I’m currently seeking job opportunities and open to collaborations.
+- 🌱 I work daily with HTML, CSS, JavaScript, Node.js, Tailwind, npm, and WordPress.
+- 💡 I care about well-structured code, UX, and fast load times.
 
 🛠️ What I build
 - Responsive websites and landing pages
